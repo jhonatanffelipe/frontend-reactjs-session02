@@ -19,7 +19,7 @@ e é capas de listar e cadastrar novos projetos: **[Acessar repositório da API]
 - Para executar o projeto é nessario estar com a API executando;
 - Conar o repositório;
 - Acessar o diretório da aplicação;
-- Executar o comando yarn no terminal, para que possam ser baixadas as dependências do projeto;
-- Executar o projeto com o comando yarn dev
-- Acesssar a aplicação em http://localhost:8080/
+- Executar o comando `yarn` no terminal, para que possam ser baixadas as dependências do projeto;
+- Executar o projeto com o comando `yarn dev`;
+- Acesssar a aplicação em http://localhost:8080/;
 
